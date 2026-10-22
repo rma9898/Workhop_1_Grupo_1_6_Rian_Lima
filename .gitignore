@@ -1,18 +1,4 @@
-# Saídas de build
 target/
 build/
-.gradle/
-
-# IDEs
 .idea/
-*.iml
-.vscode/
-.classpath
-.project
-.settings/
-out/
-
-# Sistema
-.DS_Store
-
-bin/
+.gradle/
